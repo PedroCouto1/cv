@@ -1,0 +1,17 @@
+  <!-- this is a comment -->
+<!-- <i> vs <em>
+    <i> only stlyes the text in italics
+    <em> gives the phrase or word emphasis
+-->
+
+<!-- <b> vs <strong> is the same concept-->
+
+<!-- an unordered list is <ul> which is the alternative to an ordered list-->
+
+<!-- mess around with different types of lists on the website-->
+
+<!-- the anchor element is <a> which coneects words to links-->
+<!-- <a href="https://www.binghamton.edu/">SUNY Binghamton</a> -->
+<!-- by creating an html in the same folder, I can create different pages of a website-->
+<!-- adding tables to create some format by using <table-->
+<!-- Using the <form> element to create a form for contact me page-->
